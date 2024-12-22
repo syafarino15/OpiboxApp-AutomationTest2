@@ -1,0 +1,8 @@
+Test Summary:
+Status: Failed
+Message: User session was lost after forced restart. Recoverability test failed.
+
+Details:
+Step: Login, Status: Success, Duration: 18842 ms, Timestamp: 2024-12-02T08:00:19.121Z
+Step: Forced Restart, Status: Simulated, Duration: 1000 ms, Timestamp: 2024-12-02T08:00:20.162Z
+Step: Recoverability Check, Status: Failed, Duration: 21159 ms, Timestamp: 2024-12-02T08:00:41.469Z

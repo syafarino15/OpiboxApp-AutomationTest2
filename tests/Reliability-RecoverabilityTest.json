@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "status": "Failed",
+    "message": "User session was lost after forced restart. Recoverability test failed."
+  },
+  "steps": [
+    {
+      "step": "Login",
+      "status": "Success",
+      "duration": 18842,
+      "timestamp": "2024-12-02T08:00:19.121Z"
+    },
+    {
+      "step": "Forced Restart",
+      "status": "Simulated",
+      "duration": 1000,
+      "timestamp": "2024-12-02T08:00:20.162Z"
+    },
+    {
+      "step": "Recoverability Check",
+      "status": "Failed",
+      "duration": 21159,
+      "timestamp": "2024-12-02T08:00:41.469Z"
+    }
+  ]
+}
