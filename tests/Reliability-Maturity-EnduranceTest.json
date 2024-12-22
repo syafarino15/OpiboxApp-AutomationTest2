@@ -1,0 +1,384 @@
+{
+  "results": [
+    {
+      "iteration": 1,
+      "status": "Success",
+      "loadTime": 11605,
+      "timestamp": "2024-12-01T15:53:19.049Z"
+    },
+    {
+      "iteration": 2,
+      "status": "Success",
+      "loadTime": 1429,
+      "timestamp": "2024-12-01T15:53:21.843Z"
+    },
+    {
+      "iteration": 3,
+      "status": "Success",
+      "loadTime": 1488,
+      "timestamp": "2024-12-01T15:53:24.686Z"
+    },
+    {
+      "iteration": 4,
+      "status": "Success",
+      "loadTime": 1352,
+      "timestamp": "2024-12-01T15:53:27.272Z"
+    },
+    {
+      "iteration": 5,
+      "status": "Success",
+      "loadTime": 1448,
+      "timestamp": "2024-12-01T15:53:30.183Z"
+    },
+    {
+      "iteration": 6,
+      "status": "Success",
+      "loadTime": 1415,
+      "timestamp": "2024-12-01T15:53:32.977Z"
+    },
+    {
+      "iteration": 7,
+      "status": "Success",
+      "loadTime": 1445,
+      "timestamp": "2024-12-01T15:53:35.658Z"
+    },
+    {
+      "iteration": 8,
+      "status": "Success",
+      "loadTime": 1573,
+      "timestamp": "2024-12-01T15:53:38.450Z"
+    },
+    {
+      "iteration": 9,
+      "status": "Success",
+      "loadTime": 1365,
+      "timestamp": "2024-12-01T15:53:41.056Z"
+    },
+    {
+      "iteration": 10,
+      "status": "Success",
+      "loadTime": 1553,
+      "timestamp": "2024-12-01T15:53:43.875Z"
+    },
+    {
+      "iteration": 11,
+      "status": "Success",
+      "loadTime": 1522,
+      "timestamp": "2024-12-01T15:53:46.650Z"
+    },
+    {
+      "iteration": 12,
+      "status": "Success",
+      "loadTime": 1657,
+      "timestamp": "2024-12-01T15:53:49.563Z"
+    },
+    {
+      "iteration": 13,
+      "status": "Success",
+      "loadTime": 1708,
+      "timestamp": "2024-12-01T15:53:52.494Z"
+    },
+    {
+      "iteration": 14,
+      "status": "Success",
+      "loadTime": 1504,
+      "timestamp": "2024-12-01T15:53:55.361Z"
+    },
+    {
+      "iteration": 15,
+      "status": "Success",
+      "loadTime": 1475,
+      "timestamp": "2024-12-01T15:53:58.105Z"
+    },
+    {
+      "iteration": 16,
+      "status": "Success",
+      "loadTime": 1367,
+      "timestamp": "2024-12-01T15:54:00.741Z"
+    },
+    {
+      "iteration": 17,
+      "status": "Success",
+      "loadTime": 1634,
+      "timestamp": "2024-12-01T15:54:03.600Z"
+    },
+    {
+      "iteration": 18,
+      "status": "Success",
+      "loadTime": 1357,
+      "timestamp": "2024-12-01T15:54:06.227Z"
+    },
+    {
+      "iteration": 19,
+      "status": "Success",
+      "loadTime": 1891,
+      "timestamp": "2024-12-01T15:54:09.333Z"
+    },
+    {
+      "iteration": 20,
+      "status": "Success",
+      "loadTime": 1365,
+      "timestamp": "2024-12-01T15:54:11.927Z"
+    },
+    {
+      "iteration": 21,
+      "status": "Success",
+      "loadTime": 1462,
+      "timestamp": "2024-12-01T15:54:14.741Z"
+    },
+    {
+      "iteration": 22,
+      "status": "Success",
+      "loadTime": 1621,
+      "timestamp": "2024-12-01T15:54:17.586Z"
+    },
+    {
+      "iteration": 23,
+      "status": "Success",
+      "loadTime": 1504,
+      "timestamp": "2024-12-01T15:54:20.309Z"
+    },
+    {
+      "iteration": 24,
+      "status": "Success",
+      "loadTime": 1354,
+      "timestamp": "2024-12-01T15:54:22.890Z"
+    },
+    {
+      "iteration": 25,
+      "status": "Success",
+      "loadTime": 1463,
+      "timestamp": "2024-12-01T15:54:25.586Z"
+    },
+    {
+      "iteration": 26,
+      "status": "Success",
+      "loadTime": 1518,
+      "timestamp": "2024-12-01T15:54:28.328Z"
+    },
+    {
+      "iteration": 27,
+      "status": "Success",
+      "loadTime": 1466,
+      "timestamp": "2024-12-01T15:54:31.017Z"
+    },
+    {
+      "iteration": 28,
+      "status": "Success",
+      "loadTime": 1600,
+      "timestamp": "2024-12-01T15:54:33.961Z"
+    },
+    {
+      "iteration": 29,
+      "status": "Success",
+      "loadTime": 1308,
+      "timestamp": "2024-12-01T15:54:36.491Z"
+    },
+    {
+      "iteration": 30,
+      "status": "Success",
+      "loadTime": 1550,
+      "timestamp": "2024-12-01T15:54:39.264Z"
+    },
+    {
+      "iteration": 31,
+      "status": "Success",
+      "loadTime": 1736,
+      "timestamp": "2024-12-01T15:54:42.245Z"
+    },
+    {
+      "iteration": 32,
+      "status": "Success",
+      "loadTime": 1501,
+      "timestamp": "2024-12-01T15:54:45.092Z"
+    },
+    {
+      "iteration": 33,
+      "status": "Success",
+      "loadTime": 1472,
+      "timestamp": "2024-12-01T15:54:47.791Z"
+    },
+    {
+      "iteration": 34,
+      "status": "Success",
+      "loadTime": 1427,
+      "timestamp": "2024-12-01T15:54:50.546Z"
+    },
+    {
+      "iteration": 35,
+      "status": "Success",
+      "loadTime": 1602,
+      "timestamp": "2024-12-01T15:54:53.387Z"
+    },
+    {
+      "iteration": 36,
+      "status": "Success",
+      "loadTime": 1359,
+      "timestamp": "2024-12-01T15:54:55.984Z"
+    },
+    {
+      "iteration": 37,
+      "status": "Success",
+      "loadTime": 1520,
+      "timestamp": "2024-12-01T15:54:58.754Z"
+    },
+    {
+      "iteration": 38,
+      "status": "Success",
+      "loadTime": 1395,
+      "timestamp": "2024-12-01T15:55:01.408Z"
+    },
+    {
+      "iteration": 39,
+      "status": "Success",
+      "loadTime": 1855,
+      "timestamp": "2024-12-01T15:55:04.511Z"
+    },
+    {
+      "iteration": 40,
+      "status": "Success",
+      "loadTime": 1315,
+      "timestamp": "2024-12-01T15:55:07.053Z"
+    },
+    {
+      "iteration": 41,
+      "status": "Success",
+      "loadTime": 1331,
+      "timestamp": "2024-12-01T15:55:09.627Z"
+    },
+    {
+      "iteration": 42,
+      "status": "Success",
+      "loadTime": 1415,
+      "timestamp": "2024-12-01T15:55:12.279Z"
+    },
+    {
+      "iteration": 43,
+      "status": "Success",
+      "loadTime": 1408,
+      "timestamp": "2024-12-01T15:55:14.924Z"
+    },
+    {
+      "iteration": 44,
+      "status": "Success",
+      "loadTime": 1320,
+      "timestamp": "2024-12-01T15:55:17.484Z"
+    },
+    {
+      "iteration": 45,
+      "status": "Success",
+      "loadTime": 1308,
+      "timestamp": "2024-12-01T15:55:20.139Z"
+    },
+    {
+      "iteration": 46,
+      "status": "Success",
+      "loadTime": 1308,
+      "timestamp": "2024-12-01T15:55:22.765Z"
+    },
+    {
+      "iteration": 47,
+      "status": "Success",
+      "loadTime": 1313,
+      "timestamp": "2024-12-01T15:55:25.296Z"
+    },
+    {
+      "iteration": 48,
+      "status": "Success",
+      "loadTime": 1369,
+      "timestamp": "2024-12-01T15:55:27.898Z"
+    },
+    {
+      "iteration": 49,
+      "status": "Success",
+      "loadTime": 1318,
+      "timestamp": "2024-12-01T15:55:30.439Z"
+    },
+    {
+      "iteration": 50,
+      "status": "Success",
+      "loadTime": 2108,
+      "timestamp": "2024-12-01T15:55:33.758Z"
+    },
+    {
+      "iteration": 51,
+      "status": "Success",
+      "loadTime": 1424,
+      "timestamp": "2024-12-01T15:55:36.510Z"
+    },
+    {
+      "iteration": 52,
+      "status": "Success",
+      "loadTime": 1587,
+      "timestamp": "2024-12-01T15:55:39.318Z"
+    },
+    {
+      "iteration": 53,
+      "status": "Success",
+      "loadTime": 1365,
+      "timestamp": "2024-12-01T15:55:41.904Z"
+    },
+    {
+      "iteration": 54,
+      "status": "Success",
+      "loadTime": 1398,
+      "timestamp": "2024-12-01T15:55:44.637Z"
+    },
+    {
+      "iteration": 55,
+      "status": "Success",
+      "loadTime": 1291,
+      "timestamp": "2024-12-01T15:55:47.136Z"
+    },
+    {
+      "iteration": 56,
+      "status": "Success",
+      "loadTime": 1332,
+      "timestamp": "2024-12-01T15:55:49.786Z"
+    },
+    {
+      "iteration": 57,
+      "status": "Success",
+      "loadTime": 2386,
+      "timestamp": "2024-12-01T15:55:53.516Z"
+    },
+    {
+      "iteration": 58,
+      "status": "Success",
+      "loadTime": 1468,
+      "timestamp": "2024-12-01T15:55:56.221Z"
+    },
+    {
+      "iteration": 59,
+      "status": "Success",
+      "loadTime": 1381,
+      "timestamp": "2024-12-01T15:55:58.823Z"
+    },
+    {
+      "iteration": 60,
+      "status": "Success",
+      "loadTime": 1314,
+      "timestamp": "2024-12-01T15:56:01.376Z"
+    },
+    {
+      "iteration": 61,
+      "status": "Success",
+      "loadTime": 1476,
+      "timestamp": "2024-12-01T15:56:04.165Z"
+    },
+    {
+      "iteration": 62,
+      "status": "Success",
+      "loadTime": 1285,
+      "timestamp": "2024-12-01T15:56:06.690Z"
+    }
+  ],
+  "statistics": {
+    "totalIterations": 62,
+    "successfulIterations": 62,
+    "failedIterations": 0,
+    "fastestLoadTime": 1285,
+    "slowestLoadTime": 11605,
+    "averageLoadTime": 1646.55
+  }
+}

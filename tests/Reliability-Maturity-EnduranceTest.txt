@@ -1,0 +1,70 @@
+Iteration: 1, Status: Success, Load Time: 11605 ms, Timestamp: 2024-12-01T15:53:19.049Z
+Iteration: 2, Status: Success, Load Time: 1429 ms, Timestamp: 2024-12-01T15:53:21.843Z
+Iteration: 3, Status: Success, Load Time: 1488 ms, Timestamp: 2024-12-01T15:53:24.686Z
+Iteration: 4, Status: Success, Load Time: 1352 ms, Timestamp: 2024-12-01T15:53:27.272Z
+Iteration: 5, Status: Success, Load Time: 1448 ms, Timestamp: 2024-12-01T15:53:30.183Z
+Iteration: 6, Status: Success, Load Time: 1415 ms, Timestamp: 2024-12-01T15:53:32.977Z
+Iteration: 7, Status: Success, Load Time: 1445 ms, Timestamp: 2024-12-01T15:53:35.658Z
+Iteration: 8, Status: Success, Load Time: 1573 ms, Timestamp: 2024-12-01T15:53:38.450Z
+Iteration: 9, Status: Success, Load Time: 1365 ms, Timestamp: 2024-12-01T15:53:41.056Z
+Iteration: 10, Status: Success, Load Time: 1553 ms, Timestamp: 2024-12-01T15:53:43.875Z
+Iteration: 11, Status: Success, Load Time: 1522 ms, Timestamp: 2024-12-01T15:53:46.650Z
+Iteration: 12, Status: Success, Load Time: 1657 ms, Timestamp: 2024-12-01T15:53:49.563Z
+Iteration: 13, Status: Success, Load Time: 1708 ms, Timestamp: 2024-12-01T15:53:52.494Z
+Iteration: 14, Status: Success, Load Time: 1504 ms, Timestamp: 2024-12-01T15:53:55.361Z
+Iteration: 15, Status: Success, Load Time: 1475 ms, Timestamp: 2024-12-01T15:53:58.105Z
+Iteration: 16, Status: Success, Load Time: 1367 ms, Timestamp: 2024-12-01T15:54:00.741Z
+Iteration: 17, Status: Success, Load Time: 1634 ms, Timestamp: 2024-12-01T15:54:03.600Z
+Iteration: 18, Status: Success, Load Time: 1357 ms, Timestamp: 2024-12-01T15:54:06.227Z
+Iteration: 19, Status: Success, Load Time: 1891 ms, Timestamp: 2024-12-01T15:54:09.333Z
+Iteration: 20, Status: Success, Load Time: 1365 ms, Timestamp: 2024-12-01T15:54:11.927Z
+Iteration: 21, Status: Success, Load Time: 1462 ms, Timestamp: 2024-12-01T15:54:14.741Z
+Iteration: 22, Status: Success, Load Time: 1621 ms, Timestamp: 2024-12-01T15:54:17.586Z
+Iteration: 23, Status: Success, Load Time: 1504 ms, Timestamp: 2024-12-01T15:54:20.309Z
+Iteration: 24, Status: Success, Load Time: 1354 ms, Timestamp: 2024-12-01T15:54:22.890Z
+Iteration: 25, Status: Success, Load Time: 1463 ms, Timestamp: 2024-12-01T15:54:25.586Z
+Iteration: 26, Status: Success, Load Time: 1518 ms, Timestamp: 2024-12-01T15:54:28.328Z
+Iteration: 27, Status: Success, Load Time: 1466 ms, Timestamp: 2024-12-01T15:54:31.017Z
+Iteration: 28, Status: Success, Load Time: 1600 ms, Timestamp: 2024-12-01T15:54:33.961Z
+Iteration: 29, Status: Success, Load Time: 1308 ms, Timestamp: 2024-12-01T15:54:36.491Z
+Iteration: 30, Status: Success, Load Time: 1550 ms, Timestamp: 2024-12-01T15:54:39.264Z
+Iteration: 31, Status: Success, Load Time: 1736 ms, Timestamp: 2024-12-01T15:54:42.245Z
+Iteration: 32, Status: Success, Load Time: 1501 ms, Timestamp: 2024-12-01T15:54:45.092Z
+Iteration: 33, Status: Success, Load Time: 1472 ms, Timestamp: 2024-12-01T15:54:47.791Z
+Iteration: 34, Status: Success, Load Time: 1427 ms, Timestamp: 2024-12-01T15:54:50.546Z
+Iteration: 35, Status: Success, Load Time: 1602 ms, Timestamp: 2024-12-01T15:54:53.387Z
+Iteration: 36, Status: Success, Load Time: 1359 ms, Timestamp: 2024-12-01T15:54:55.984Z
+Iteration: 37, Status: Success, Load Time: 1520 ms, Timestamp: 2024-12-01T15:54:58.754Z
+Iteration: 38, Status: Success, Load Time: 1395 ms, Timestamp: 2024-12-01T15:55:01.408Z
+Iteration: 39, Status: Success, Load Time: 1855 ms, Timestamp: 2024-12-01T15:55:04.511Z
+Iteration: 40, Status: Success, Load Time: 1315 ms, Timestamp: 2024-12-01T15:55:07.053Z
+Iteration: 41, Status: Success, Load Time: 1331 ms, Timestamp: 2024-12-01T15:55:09.627Z
+Iteration: 42, Status: Success, Load Time: 1415 ms, Timestamp: 2024-12-01T15:55:12.279Z
+Iteration: 43, Status: Success, Load Time: 1408 ms, Timestamp: 2024-12-01T15:55:14.924Z
+Iteration: 44, Status: Success, Load Time: 1320 ms, Timestamp: 2024-12-01T15:55:17.484Z
+Iteration: 45, Status: Success, Load Time: 1308 ms, Timestamp: 2024-12-01T15:55:20.139Z
+Iteration: 46, Status: Success, Load Time: 1308 ms, Timestamp: 2024-12-01T15:55:22.765Z
+Iteration: 47, Status: Success, Load Time: 1313 ms, Timestamp: 2024-12-01T15:55:25.296Z
+Iteration: 48, Status: Success, Load Time: 1369 ms, Timestamp: 2024-12-01T15:55:27.898Z
+Iteration: 49, Status: Success, Load Time: 1318 ms, Timestamp: 2024-12-01T15:55:30.439Z
+Iteration: 50, Status: Success, Load Time: 2108 ms, Timestamp: 2024-12-01T15:55:33.758Z
+Iteration: 51, Status: Success, Load Time: 1424 ms, Timestamp: 2024-12-01T15:55:36.510Z
+Iteration: 52, Status: Success, Load Time: 1587 ms, Timestamp: 2024-12-01T15:55:39.318Z
+Iteration: 53, Status: Success, Load Time: 1365 ms, Timestamp: 2024-12-01T15:55:41.904Z
+Iteration: 54, Status: Success, Load Time: 1398 ms, Timestamp: 2024-12-01T15:55:44.637Z
+Iteration: 55, Status: Success, Load Time: 1291 ms, Timestamp: 2024-12-01T15:55:47.136Z
+Iteration: 56, Status: Success, Load Time: 1332 ms, Timestamp: 2024-12-01T15:55:49.786Z
+Iteration: 57, Status: Success, Load Time: 2386 ms, Timestamp: 2024-12-01T15:55:53.516Z
+Iteration: 58, Status: Success, Load Time: 1468 ms, Timestamp: 2024-12-01T15:55:56.221Z
+Iteration: 59, Status: Success, Load Time: 1381 ms, Timestamp: 2024-12-01T15:55:58.823Z
+Iteration: 60, Status: Success, Load Time: 1314 ms, Timestamp: 2024-12-01T15:56:01.376Z
+Iteration: 61, Status: Success, Load Time: 1476 ms, Timestamp: 2024-12-01T15:56:04.165Z
+Iteration: 62, Status: Success, Load Time: 1285 ms, Timestamp: 2024-12-01T15:56:06.690Z
+
+--- Statistics ---
+Total Iterations: 62
+Successful Iterations: 62
+Failed Iterations: 0
+Fastest Load Time: 1285 ms
+Slowest Load Time: 11605 ms
+Average Load Time: 1646.55 ms
